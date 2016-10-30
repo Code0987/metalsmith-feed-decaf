@@ -1,0 +1,30 @@
+{
+  "name": "@sole/metalsmith-feed-decaf",
+  "version": "1.0.0",
+  "description": "Metalsmith plugin to generate RSS feed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "feeds",
+    "metalsmith",
+    "rss"
+  ],
+  "author": "sole",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sole/metalsmith-feed-decaf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sole/metalsmith-feed-decaf/issues"
+  },
+  "homepage": "https://github.com/sole/metalsmith-feed-decaf#readme",
+  "dependencies": {
+    "defined": "^1.0.0",
+    "extend": "^3.0.0",
+    "rss": "^1.2.1",
+    "url": "^0.11.0"
+  }
+}
